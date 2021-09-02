@@ -2,11 +2,7 @@
 
 👋 Hi, I’m Diego Armando ! 
 
-My contacts:
-
-dgo.npp@gmail.com
-
-+55 11 96522-5444
+E-mail: dgo.npp@gmail.com
 
 <!---
 diegarm/diegarm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
