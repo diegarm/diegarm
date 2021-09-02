@@ -6,9 +6,7 @@ My contacts:
 
 dgo.npp@gmail.com
 
-+55011965225444
-
-I'm living in Brazil ! 
++55 11 96522-5444
 
 <!---
 diegarm/diegarm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
