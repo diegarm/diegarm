@@ -1,10 +1,8 @@
-👋 Welcome!
+Hey! 👋 😃
+My name is Diego Armando, and... I'm not Maradona ! 😂 
 
-👋 Hi, I’m Diego Armando ! 
+I'm a husband and father of one son. 
 
-E-mail: dgo.npp@gmail.com
+I live and work at Santo André, Brazil. 
 
-<!---
-diegarm/diegarm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently I'm a developer at the big bank !
