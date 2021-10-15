@@ -1,8 +1,7 @@
 Hey! 👋 😃
-My name is Diego Armando, and... I'm not Maradona ! 😂 
+My name is Diego Armando, and... I'm not Maradona ! 😂 I'm a husband and father of one son. I live and work at Santo André, Brazil. Currently I'm a developer at the big bank !
 
-I'm a husband and father of one son. 
+Contacts:
+E-mail: dgo.npp@gmail.com
+Linkedin: https://www.linkedin.com/in/diego-armando-b4486823/
 
-I live and work at Santo André, Brazil. 
-
-Currently I'm a developer at the big bank !
