@@ -9,4 +9,5 @@
 ```
 E-mail: dgo.npp@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/diegarm/
+WhatsApp: +55 11 96522 5444
 
