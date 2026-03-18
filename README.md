@@ -11,6 +11,6 @@ E-mail: dgo.npp@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/diegarm/<br>
 WhatsApp: +55 11 96522 5444
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LeonardoCarvalho01)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegarm)](https://git.io/streak-stats)
 _________________________________________________________________________________________________________________________________________________________________________
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCarvalho01)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LeonardoCarvalho01)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegarm)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegarm)
