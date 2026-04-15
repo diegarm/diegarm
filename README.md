@@ -7,10 +7,26 @@
                        |___/ 
 
 ```
-E-mail: dgo.npp@gmail.com<br>
 Linkedin: https://www.linkedin.com/in/diegarm/<br>
-WhatsApp: +55 11 96522 5444
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=diegarm)](https://git.io/streak-stats)
-_________________________________________________________________________________________________________________________________________________________________________
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegarm)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegarm)
+# 📊 GitHub Dashboard
+
+## 📈 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegarm\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+## 🔥 Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=diegarm\&theme=tokyonight\&hide_border=true)
+
+## 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegarm\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+## 🏆 Conquistas
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=diegarm\&theme=tokyonight\&no-frame=true\&margin-w=10)
+
+## 📅 Atividade
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diegarm\&theme=tokyo-night)
