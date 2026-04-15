@@ -25,7 +25,7 @@ Linkedin: https://www.linkedin.com/in/diegarm/<br>
 
 ## 🏆 Conquistas
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=diegarm\&theme=tokyonight\&no-frame=true\&margin-w=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegarm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ## 📅 Atividade
 
