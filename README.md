@@ -11,21 +11,9 @@ Linkedin: https://www.linkedin.com/in/diegarm/<br>
 
 # 📊 GitHub Dashboard
 
-## 📈 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegarm\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
 ## 🔥 Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=diegarm\&theme=tokyonight\&hide_border=true)
-
-## 📊 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegarm\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-## 🏆 Conquistas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegarm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ## 📅 Atividade
 
