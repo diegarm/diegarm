@@ -15,6 +15,9 @@ Linkedin: https://www.linkedin.com/in/diegarm/<br>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=diegarm\&theme=tokyonight\&hide_border=true)
 
-## 📅 Atividade
+## 📅 Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=diegarm\&theme=tokyo-night)
+
+## Top Languages
+![diegarm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegarm&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
